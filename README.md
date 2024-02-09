@@ -10,11 +10,11 @@
 </p>
 
 ## 🌱 Atualmente estou aprendendo...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 
 ## 📚 No futuro, quero aprender...
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg"  width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg"  width="40" height="40"/>
 
 ## 🖥️ Estatísticas
 <div>
