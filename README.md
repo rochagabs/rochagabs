@@ -3,7 +3,7 @@
 <h3>Olá, devs! :smile:</h3>
 
 
-<h4>Meu nome é Gabriela, sou iniciante no universo fantástico da programação e faço graduação em Ciência da Computação.</h4>
+<h4>Meu nome é Gabriela, sou desenvolvedora de sistemas e tenho graduação em Ciência da Computação.</h4>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/a1/64/12/a164126cbaab8678e9f371b4b113e28f.gif" width="350">
